@@ -8,4 +8,8 @@
 
 (https://github.com/kimnambin/python01/blob/main/DAY1-2/HELLOWORLD_EX1.py)
 
-# 입력과 출력문제 DATA_INPUT2
+# 입력과 출력문제 DATA_INPUT
+
+# 값 변환/연산자 – DATA_CONVERT1 
+
+# 반복문과 조건문 IF_REPEAT5
