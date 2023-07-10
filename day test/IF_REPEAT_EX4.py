@@ -22,5 +22,10 @@ while True:
         break
     print(char)
 
-
+    # n = int(input('1~100사이 정수를 입력하여 짝수만 출력: '))
+    # sum=0
+    # for i in range
+    # 
+    #
+    #
 
