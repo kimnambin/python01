@@ -1,0 +1,1 @@
+print ('|"c:|Download"|'hello\t world|'".py|'")
