@@ -10,6 +10,35 @@
 
 # 입력과 출력문제 DATA_INPUT
 
+
+
 # 값 변환/연산자 – DATA_CONVERT1 
 
+https://github.com/kimnambin/python01/commit/b7bc3927a6c889043e5fe6863247b93f6bd54dfa#diff-57dc1d090e5ca59a43bf52a0e27317cd9f0e02d14a61cda8ae23e3b3d8774545
+
+https://github.com/kimnambin/python01/commit/b7bc3927a6c889043e5fe6863247b93f6bd54dfa#diff-46b823fba1bfe81a08d8670ec49401b1a465f2afb5bbbb0870d6936c55ca6c41
+
+https://github.com/kimnambin/python01/commit/b7bc3927a6c889043e5fe6863247b93f6bd54dfa#diff-656adfe0ce0ec0e72448c2ada68715061137721fea73efa7cd73f8e8a584de55
+
+https://github.com/kimnambin/python01/commit/b7bc3927a6c889043e5fe6863247b93f6bd54dfa#diff-ccd90a10416689bb49de2522f8148a25402fc5d0ab8b0576cebaf7555e82264b
+
+문제
+https://github.com/kimnambin/python01/commit/b7bc3927a6c889043e5fe6863247b93f6bd54dfa#diff-4f2f2af6f740520d4a6d27304d17458debf93124367d6c9ad2712f9a97c492fe
+
+
 # 반복문과 조건문 IF_REPEAT5
+
+https://github.com/kimnambin/python01/commit/b7bc3927a6c889043e5fe6863247b93f6bd54dfa#diff-b6e9e2d30a579db848b2ac0305c5b9e3c8a322d974b7f23a495126612c64cb8f
+
+https://github.com/kimnambin/python01/commit/b7bc3927a6c889043e5fe6863247b93f6bd54dfa#diff-06116c0f32dc7ab67a0b51affed752472a2f1e91202339505c484b4f8ea66f85
+
+https://github.com/kimnambin/python01/commit/b7bc3927a6c889043e5fe6863247b93f6bd54dfa#diff-a81bf9423bbfc06c5c35e951eedec87565baae3bf095e87d9688d964c2c424f7
+
+https://github.com/kimnambin/python01/commit/b7bc3927a6c889043e5fe6863247b93f6bd54dfa#diff-fb1f638e16fbe59636eb07568da0f4e08bc599b35620532046139953405dbfc2
+
+https://github.com/kimnambin/python01/commit/b7bc3927a6c889043e5fe6863247b93f6bd54dfa#diff-65b81b4c1a2b09225c9c92dba2ba2de6b981847691813880e1cc9a7a0e73e033
+
+https://github.com/kimnambin/python01/commit/b7bc3927a6c889043e5fe6863247b93f6bd54dfa#diff-25cb0c47e8267b0f9830d6ac9fec449355c4b903ae5ba8c5a3108fde0d7a6395
+
+문제
+https://github.com/kimnambin/python01/commit/b7bc3927a6c889043e5fe6863247b93f6bd54dfa#diff-938cffc6324b1800b00b18aa45ffffc673f471ba6b4733766ac3f1e88ba905fc
