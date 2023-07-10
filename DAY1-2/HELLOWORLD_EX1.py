@@ -1,1 +1,1 @@
-print( r"C:\Download\'hello     world'.py")
+print( '|"c:||Download|||'hello|world|'.py|""')
