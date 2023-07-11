@@ -42,3 +42,5 @@ https://github.com/kimnambin/python01/commit/b7bc3927a6c889043e5fe6863247b93f6bd
 
 문제
 https://github.com/kimnambin/python01/commit/b7bc3927a6c889043e5fe6863247b93f6bd54dfa#diff-938cffc6324b1800b00b18aa45ffffc673f471ba6b4733766ac3f1e88ba905fc
+
+# 자료형 – DATA_TYPE
