@@ -44,3 +44,13 @@ https://github.com/kimnambin/python01/commit/b7bc3927a6c889043e5fe6863247b93f6bd
 https://github.com/kimnambin/python01/commit/b7bc3927a6c889043e5fe6863247b93f6bd54dfa#diff-938cffc6324b1800b00b18aa45ffffc673f471ba6b4733766ac3f1e88ba905fc
 
 # 자료형 – DATA_TYPE
+
+https://github.com/kimnambin/python01/commit/2244ea0a4ce5de57501b4f4b31e8253f3b98950e#diff-0af9106926c20d6c3bdfb7d27a3f4cdfcaa8b4c55934dd9ea04237258dd357f3
+
+https://github.com/kimnambin/python01/commit/2244ea0a4ce5de57501b4f4b31e8253f3b98950e#diff-a559d7921552b0ab2af6e4aec655004c7348854d0f438adcf1808cf9b87020bb
+
+https://github.com/kimnambin/python01/commit/2244ea0a4ce5de57501b4f4b31e8253f3b98950e#diff-242232d3ec6b8068a6fd1cba0f1ddb0fc97b2dc3db0b22733f21cd58ec9b63d2
+
+문제
+https://github.com/kimnambin/python01/commit/2244ea0a4ce5de57501b4f4b31e8253f3b98950e#diff-d0e7b9179440bf8fe8d9c53b79ef58fcb4c55271dcc544bfb4b7fef3e3e26fc7
+
