@@ -51,6 +51,16 @@ https://github.com/kimnambin/python01/commit/2244ea0a4ce5de57501b4f4b31e8253f3b9
 
 https://github.com/kimnambin/python01/commit/2244ea0a4ce5de57501b4f4b31e8253f3b98950e#diff-242232d3ec6b8068a6fd1cba0f1ddb0fc97b2dc3db0b22733f21cd58ec9b63d2
 
-문제
+https://github.com/kimnambin/python01/blob/main/DAY1-2/DATA_TYPE4_1.py
+
+https://github.com/kimnambin/python01/blob/main/DAY1-2/DATA_TYPE4_2.py
+
+문제 6 
 https://github.com/kimnambin/python01/commit/2244ea0a4ce5de57501b4f4b31e8253f3b98950e#diff-d0e7b9179440bf8fe8d9c53b79ef58fcb4c55271dcc544bfb4b7fef3e3e26fc7
 
+문제 7
+https://github.com/kimnambin/python01/commit/fef05e54e792b5147a430948c7c7841948db4e04
+
+# FUNCTION
+
+문제
