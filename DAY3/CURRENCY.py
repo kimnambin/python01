@@ -1,3 +1,5 @@
+# 입력한 수 최소 거스름돈 구하기
+
 n = int(input('거스름돈을 가격(정수)로 입력해 주세요 :')) # 가격 입력을 받기 위해 정수 캐스팅
 count = 0
 
@@ -8,6 +10,7 @@ for coin in array:
     
 print('동전의 거스름돈 최소 개수는 :', count) # 개수 결과 출력 
 
+# 입력된 값 최소 거스름돈구하기 
 
 import time
 import os
