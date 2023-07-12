@@ -83,6 +83,12 @@ https://github.com/kimnambin/python01/commit/61440a538f715d6285e79fcf7afb7901ed5
 
 # MULTIPLUS
 
+https://github.com/kimnambin/python01/commit/69aef64bfd0c0b6bfa4a4d85b15bd54a566e45f8#diff-6692308a137f43b0de475aba56d59e50d69f827180f4bd8402b785917412545c
+
 # GUILD
 
+https://github.com/kimnambin/python01/commit/69aef64bfd0c0b6bfa4a4d85b15bd54a566e45f8#diff-cce160b5d73bd1b282aad194607174edc2ede88bf81de594f63d4f00faa49b22
+
 # CARD 카드 문제 
+
+https://github.com/kimnambin/python01/commit/69aef64bfd0c0b6bfa4a4d85b15bd54a566e45f8#diff-70527852273e718a0b43f2a28c0861da0e6408f5fe4b139f8f3c399f37491b1f
