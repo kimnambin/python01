@@ -75,4 +75,14 @@ https://github.com/kimnambin/python01/commit/45f443ae99f251bbe03f6b126d045d7172b
 
 # 계산하기
 
+https://github.com/kimnambin/python01/commit/61440a538f715d6285e79fcf7afb7901ed504346#diff-294751154f604243ffe5686aa2634f3a4bf0ee946a4867b991b98cc0ebc2cf36
+
 # 동전 개수 구하기
+
+https://github.com/kimnambin/python01/commit/61440a538f715d6285e79fcf7afb7901ed504346#diff-6ae1509b165f9b780a9b16fbcf73b86d3847edcbd513590b9fe8d36deda1721d
+
+# MULTIPLUS
+
+# GUILD
+
+# CARD 카드 문제 
