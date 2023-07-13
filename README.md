@@ -96,3 +96,12 @@ https://github.com/kimnambin/python01/commit/69aef64bfd0c0b6bfa4a4d85b15bd54a566
 # SIMULATION
 
 # TIME_FILTER
+
+# KNIGHT
+
+# ATOZ_EX2
+
+# STRING_SORT
+
+# DECRYPTION_EX3
+
