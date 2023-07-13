@@ -92,3 +92,7 @@ https://github.com/kimnambin/python01/commit/69aef64bfd0c0b6bfa4a4d85b15bd54a566
 # CARD 카드 문제 
 
 https://github.com/kimnambin/python01/commit/69aef64bfd0c0b6bfa4a4d85b15bd54a566e45f8#diff-70527852273e718a0b43f2a28c0861da0e6408f5fe4b139f8f3c399f37491b1f
+
+# SIMULATION
+
+# TIME_FILTER
