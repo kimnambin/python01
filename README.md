@@ -99,9 +99,16 @@ https://github.com/kimnambin/python01/commit/69aef64bfd0c0b6bfa4a4d85b15bd54a566
 
 # KNIGHT
 
+https://github.com/kimnambin/python01/commit/980c38253438b70ee70b6010ecbc87e2cf7e6f61
+
 # ATOZ_EX2
+
+https://github.com/kimnambin/python01/commit/980c38253438b70ee70b6010ecbc87e2cf7e6f61#diff-47d6683127f2a0b9e131771b4713c0451c168579d660d027978a569ddfbedc6d
 
 # STRING_SORT
 
+https://github.com/kimnambin/python01/commit/980c38253438b70ee70b6010ecbc87e2cf7e6f61#diff-41ae385f6ef125ff724be214c44036127e4184f657ea17e678eaf3d6f69ab875
+
 # DECRYPTION_EX3
 
+https://github.com/kimnambin/python01/commit/980c38253438b70ee70b6010ecbc87e2cf7e6f61#diff-3e0936003a84d1f09e9bfedbb70cb2a4b8d4cec93b92791dbe7f3ed7532e4007
