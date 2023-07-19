@@ -26,6 +26,6 @@ for i in array:
         temp = i *  j
         #print(temp) - 반복마다 값 출력?
        
-print(temp) # 측정 최종 값 출력
+    print(temp) # 측정 최종 값 출력
 end_time = time.time() # 측정 종료
 print("time:", end_time - start_time) # 수행 시간 출력
